@@ -6,7 +6,7 @@ This is simple App to record diary activities. An Activity is composes by:
 2. **Description**
 3. **Date Time**
 
-The app allow you to create new diary entries.
+The app runs in port 8080 [App](http://localhost:8080/). It allows to create new diary entries.
 
 ![new_entry](Images/new_entry.png)
 
